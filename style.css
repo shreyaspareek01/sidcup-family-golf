@@ -23,7 +23,7 @@ body::-webkit-scrollbar-thumb {
 
 @font-face {
   font-family: monument;
-  src: url("../monumentextended-freeforpersonaluse/MonumentExtended-FreeForPersonalUse/MonumentExtended-Regular.otf");
+  src: url("MonumentExtended-Regular.otf");
 }
 
 #nav {
